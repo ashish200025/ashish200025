@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashish200025
+- 👋 Hi, I’m ashish
 - 👀 I’m interested in webdevelopment apps
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
